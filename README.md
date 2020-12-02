@@ -25,7 +25,7 @@ The biggest challenge is how to submit this in Github
 2. Cancel rates are not impacted by seasonality
 
 - What can you conclude about the Outcomes based on Goals?
-- Generally the smaller the goal, the higher chance of success
+Generally the smaller the goal, the higher chance of success
 
 - What are some limitations of this dataset?
 There's outlier data 
