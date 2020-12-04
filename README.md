@@ -10,10 +10,10 @@ Help Louise determine whether there are specific factors that can help project c
 Louise wants to know how different campaigns fared in relation to their launch dates and the funding goal. Two graphs are created to halp her find the answer.
 
 ### Analysis of Outcomes Based on Launch Date
-
+![](https://github.com/esaer/Kickstarter-analysis/raw/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-
+![](https://github.com/esaer/Kickstarter-analysis/raw/main/Outcome%20based%20on%20Goal.png)
 
 ### Challenges and Difficulties Encountered
 The biggest challenge is how to submit this in Github
