@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project 
-Louise started a crowdfunding campaign and had a budege of 10K. His play Fever came close to the fundraising goal soon.  
+Louise started a crowdfunding campaign and had a budget of 10K. His play Fever came close to the fundraising goal soon.  
 
 ### Project Purpose 
 Help Louise determine whether there are specific factors that can help project campeign sucessfully 
